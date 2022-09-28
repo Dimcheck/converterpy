@@ -1,0 +1,8 @@
+postgres:
+  database: demo_app
+  user: postgres
+  password: postgres
+  host: localhost
+  port: 5432
+  minsize: 1
+  minsize: 5
